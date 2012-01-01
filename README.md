@@ -1,3 +1,4 @@
+# Overview #
 My "**Lightbox**" is a Simple to use Dialog Window based on **jQuery** and **jQuery's UI**.
 
 To use this script you will need to have
@@ -16,10 +17,12 @@ I’m sure you will be able to find one and figure out the css fairly easy.
 You can find the original source to this lightbox at my [blog][2]
 You can see a live real world demo at [Rare Species Fund][3]
 
+## Reference Links ##
+
   [1]: http://jqueryui.com
   [2]: http://blog.s-vizion.com/2011/web-development/a-simple-jquery-lightbox-for-displaying-anything/
   [3]: http://rarespeciesfund.org/
 
-**** TODO: ****
-0) Convert from a "ahole" function to a actual jQuery PlugIn
-1) Possibily add options to allow setting of loading image, resizable, etc
+## TODO: ##
+- 0) Convert from a "ahole" function to a actual jQuery PlugIn
+- 1) Possibily add options to allow setting of loading image, resizable, etc
